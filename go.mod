@@ -4,13 +4,13 @@ go 1.11
 
 require (
 	cloud.google.com/go v0.57.0
-	cloud.google.com/go/bigquery v1.7.0
+	cloud.google.com/go/bigquery v1.8.0
 	cloud.google.com/go/bigtable v1.3.0
 	cloud.google.com/go/datastore v1.1.0
 	cloud.google.com/go/firestore v1.2.0
 	cloud.google.com/go/logging v1.0.0
 	cloud.google.com/go/pubsub v1.3.1
-	cloud.google.com/go/spanner v1.5.1
+	cloud.google.com/go/spanner v1.6.0
 	cloud.google.com/go/storage v1.8.0
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.1
 	github.com/aws/aws-sdk-go v1.31.5
